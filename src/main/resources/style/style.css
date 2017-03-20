@@ -1,0 +1,14 @@
+.btn {
+    -fx-background-color: #0288D1;
+    -fx-font-weight: 700;
+    -fx-font-size: 15px;
+    -fx-text-fill: white;
+    -fx-alignment: CENTER;
+    -fx-background-radius: 0, 0, 0, 0;
+    -fx-cursor: hand;
+}
+
+.btn:hover, .btn-selected {
+    -fx-text-fill: #0288D1;
+    -fx-background-color: white;
+}
